@@ -1,0 +1,120 @@
+body {
+    background: black;
+    color: pink;
+}
+
+#title {
+    height: 100vh;
+    padding-top: 45vh;
+}
+
+#home {
+    display: none;
+}
+
+#home h1 {
+    border-bottom: 2px solid white;
+    padding-bottom: 2vh;
+}
+
+#map iframe {
+    height: 40vh;
+    width: 100%;
+    margin: 2vh 0;
+}
+
+.one li {
+  background-image: url(../images/1.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 15vh;
+  width: 100%;
+}
+
+
+.two li {
+  background-image: url(../images/2.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 15vh;
+  width: 100%;
+}
+
+.three li {
+  background-image: url(../images/3.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 15vh;
+  width: 100%;
+}
+
+.four li {
+  background-image: url(../images/4.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 15vh;
+  width: 100%;
+}
+
+.five li {
+  background-image: url(../images/5.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 15vh;
+  width: 100%;
+}
+
+.six li {
+  background-image: url(../images/6.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 15vh;
+  width: 100%;
+}
+
+.seven li {
+  background-image: url(../images/7.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 15vh;
+  width: 100%;
+}
+
+li {
+  margin: 0.5vh 0;
+  border-radius: 5px;
+}
+
+#categorias {
+  width: 100%;
+  color: black;
+  height: 5vh;
+  font-size: 2em;
+}
+
+#modal {
+  position: absolute;
+  top: 10vh;
+  left: 4vh;
+  background: white;
+  padding: 5vh 0;
+  color: black;
+}
+
+#modal button {
+  color: black;
+  background: pink;
+  border: none;
+  outline: none;
+}
+
+#modal span {
+  float: right;
+}
